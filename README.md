@@ -2,7 +2,7 @@
 
 Technologies Used:
 1. Pandas for EDA, Data Cleaning
-2. re, string lin=brary for text cleaning
+2. re, string library for text cleaning
 3. word_tokenize, stopwords, SentimentIntensityAnalyzer from nltk library for sentiment analysis
 
 Dataset :
