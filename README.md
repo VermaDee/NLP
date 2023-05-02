@@ -1,4 +1,4 @@
-# Natural Languagse Processing
+# Natural Language Processing
 
 Technologies Used:
 1. Pandas for EDA, Data Cleaning
